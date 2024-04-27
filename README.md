@@ -1,6 +1,6 @@
 # Comic-Style-Image-Generator
 
-Training and testing Pix2Pix GAN model to generate comic-style face images
+Training of the Pix2Pix GAN model to generate comic-style face images
 
 ### Results
 
@@ -10,5 +10,5 @@ Training and testing Pix2Pix GAN model to generate comic-style face images
 
 ### References
 
-Dataset reference: https://www.kaggle.com/datasets/defileroff/comic-faces-paired-synthetic 
-Model Reference: https://www.tensorflow.org/tutorials/generative/pix2pix
+* Dataset reference: https://www.kaggle.com/datasets/defileroff/comic-faces-paired-synthetic 
+* Model Reference: https://www.tensorflow.org/tutorials/generative/pix2pix
